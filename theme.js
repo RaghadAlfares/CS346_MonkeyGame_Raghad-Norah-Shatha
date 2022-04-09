@@ -11,9 +11,6 @@ let bananaImg;
 let backgroundImg;
 let bananas = [];
 let soundClassifier;
-/* const grid = document.querySelector('.grid');
-const body = document.querySelector('body');
-const alert = document.getElementById('alert'); */
 
 
 function preload() {
