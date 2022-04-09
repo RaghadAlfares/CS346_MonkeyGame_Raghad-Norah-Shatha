@@ -60,7 +60,7 @@ function draw() { //number of banana trees
     b.show();
     if (monkey.hits(b)) {
       console.log('game over');
-      alert.innerHTML= "game over";
+      alert("game over");
       noLoop();
     }
   }
