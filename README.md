@@ -7,6 +7,7 @@
 <li>Techniques</li>
 <li>About theme</li>
 <li>Challenges</li>
+<li>Conclusion</li>
 </ul>
 <h1>Introduction</h1>
 <p>In this project, there is a monkey jump over banana trees. The score is increase with each jump. We are targeting the audience who likes challenges, they have a free time, and people who have a bad connection.</p>
@@ -17,7 +18,7 @@
 <li>Challenge to get highest score.</li>
   </ul>
   <h1>Results</h1>
-  <p>We learned how to connect php with database and how to insert values. Also, connect JavaScript with php. </p>
+  <p>Many users can challenge each other by collecting a lot of scores. There is ranks to show their rank according to their highest score.</p>
 <h1>Techniques</h1>
 <ul>
   <li>Visual studio.</li>
@@ -35,3 +36,5 @@
 <li>Pass value from JavaScript to php.</li>
 <li>Update the database values.</li>
   </ul>
+ <h1>Conclusion</h1>
+  <p>We learned how to connect php with database and how to insert values. Also, connect JavaScript with php. </p>
